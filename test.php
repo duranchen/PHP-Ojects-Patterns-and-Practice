@@ -1,0 +1,6 @@
+<?php
+Array ( [5602] => grade_item Object (
+        [table] => grade_items
+         [required_fields] => Array ( [0] => id [1] => courseid [2] => categoryid [3] => itemname [4] => itemtype [5] => itemmodule [6] => iteminstance [7] => itemnumber [8] => iteminfo [9] => idnumber [10] => calculation [11] => gradetype [12] => grademax [13] => grademin [14] => scaleid [15] => outcomeid [16] => gradepass [17] => multfactor [18] => plusfactor [19] => aggregationcoef [20] => sortorder [21] => display [22] => decimals [23] => hidden [24] => locked [25] => locktime [26] => needsupdate [27] => timecreated [28] => timemodified ) [courseid] => 2337 [categoryid] => [item_category] => [parent_category] => [itemname] => [itemtype] => course [itemmodule] => [iteminstance] => 2112 [itemnumber] => [iteminfo] => [idnumber] => [calculation] => [calculation_normalized] => [formula] => [gradetype] => 1 [grademax] => 100.00000 [grademin] => 0.00000 [scaleid] => [scale] => [outcomeid] => [outcome] => [gradepass] => 0.00000 [multfactor] => 1.00000 [plusfactor] => 0.00000 [aggregationcoef] => 0.00000 [sortorder] => 1 [display] => 0 [decimals] => [hidden] => 0 [locked] => 0 [locktime] => 0 [needsupdate] => 0 [dependson_cache] => [optional_fields] => Array ( ) [id] => 5602 [timecreated] => 1378191418 [timemodified] => 1384735222 ) )
+
+?> 
