@@ -12,7 +12,7 @@ if (isset($input)) {
 <body>
 	<form action="" method="post">
 
-		<input name="input_name" type="text" id="input_id">
+		<button type="submit">Click Me!</button>
 
 	</form>
 
