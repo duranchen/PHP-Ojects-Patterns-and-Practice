@@ -11,7 +11,7 @@ if (isset($input)) {
 <head></head>
 <body>
 	<form action="" method="post">
-		<input type="text" name="input_name" >
+		<input type="text" name="input_name"  id="input_id">
 		<button type="submit">Click Me!</button>
 
 	</form>
